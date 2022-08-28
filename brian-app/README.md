@@ -1,24 +1,33 @@
-# React Bricks starter with Next.js with Tailwind CSS and React Bricks UI
-
-Kick-start your project with this boilerplate for a complete Next.js website based on [React Bricks](https://reactbricks.com), with both the front-end and admin dashboard.
 
 ## 🚀 Quick start
 
-We suggest that you use the CLI and choose this starter.  
-In this way you will have the credentials already set up in a `.env.local` file:
 
-```bash
-npx create-reactbricks-app
-# or
-yarn create reactbricks-app
-```
+A web appalication that show-cases personal information and qualties with regards to programming employability. It comprises the name, education, skills, hobies and previous completed programming works.
 
-Otherwise you can directly clone this repo:
+By Brian Sitati
+Technologies Used
+Next.JS
+Typescript
+Tailwind css
 
-```bash
-git clone https://github.com/reactbricks/nextjs-starter-reactbricks-tailwind your-project
-```
+Requirements
+search engine console
 
-## 📖 Documentation
+Setup Instructions and Installation
+Clone this repository to a location in your file system. git clone https://github.com/fabortwell/Personal-Portfolio.git
+Open terminal command line then navigate to the root folder of the application. cd Personal-Portfolio
+Open index.html on your Browser.
+Development
+Want to contribute? Great! To fix a bug or enhance an existing module, follow these steps:
 
-Please, read our documentation at [Reactbricks.com](https://reactbricks.com).
+Fork the repo
+Create a new branch (git checkout -b improve-feature)
+Make the appropriate changes in the files
+Add changes to reflect the changes made
+Commit your changes (git commit -am 'Improve feature')
+Push to the branch (git push origin improve-feature)
+Create a Pull Request
+Known Bugs
+No known bugs
+
+Link to Live Site: https://plankton-app-43wup.ondigitalocean.app/
