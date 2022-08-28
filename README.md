@@ -12,7 +12,7 @@ Requirements
 search engine console
 
 Setup Instructions and Installation
-Clone this repository to a location in your file system. git clone https://github.com/fabortwell/Personal-Portfolio.git
+Clone this repository to a location in your file system. git clone https://github.com/fabortwell/brian-portfolio-app.git
 Open terminal command line then navigate to the root folder of the application. cd Personal-Portfolio
 Open index.html on your Browser.
 Development
